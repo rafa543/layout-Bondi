@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/rafa543/layout-pratica/blob/main/imgs/vetorMacbook.png)
+<img src="https://github.com/rafa543/layout-Bondi/blob/main/imgs/vetorMacbook.png" width="200px"/>
  
 ## Site Bondi
  
@@ -14,13 +14,13 @@ Projeto feito para treina habilidades front-end como html, css, e javascript
 
 
 ## Layouts
-![Header](https://github.com/rafa543/layout-pratica/blob/main/readme_imgs/Screenshot_4.jpg)
+![Header](https://github.com/rafa543/layout-Bondi/blob/main/readme_imgs/Screenshot_4.jpg)
 ##
-![o que sao bons](https://github.com/rafa543/layout-pratica/blob/main/readme_imgs/Screenshot_1.jpg)
+![o que sao bons](https://github.com/rafa543/layout-Bondi/blob/main/readme_imgs/Screenshot_1.jpg)
 ##
-![portifolio](https://github.com/rafa543/layout-pratica/blob/main/readme_imgs/Screenshot_2.jpg)
+![portifolio](https://github.com/rafa543/layout-Bondi/blob/main/readme_imgs/Screenshot_2.jpg)
 ##
-![newsletter e footer](https://github.com/rafa543/layout-pratica/blob/main/readme_imgs/Screenshot_3.jpg)
+![newsletter e footer](https://github.com/rafa543/layout-Bondi/blob/main/readme_imgs/Screenshot_3.jpg)
  
 ## Versioning
  
