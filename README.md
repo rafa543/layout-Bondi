@@ -3,6 +3,7 @@
 ## Site Bondi
  
 Projeto feito para treina habilidades front-end como html, css, e javascript
+## https://rafa543.github.io/layout-Bondi/
  
  
 ## Technology 
@@ -11,7 +12,9 @@ Projeto feito para treina habilidades front-end como html, css, e javascript
 * CSS
 * JavaScript
 
-
+## Services Used
+ 
+* Github
 
 ## Layouts
 ![Header](https://github.com/rafa543/layout-Bondi/blob/main/readme_imgs/Screenshot_4.jpg)
